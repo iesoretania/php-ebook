@@ -3,20 +3,29 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to dwes_php's documentation!
-====================================
-
-Contents:
+Desarrollo web en entorno servidor con PHP
+==========================================
 
 .. toctree::
    :maxdepth: 2
 
+   introduccion
+   instalacion
+   conceptos_basicos
+   interaccion_navegador
+   bases_de_datos
+   mvc
+   controlador
+   modelo
+   vista
+   informes
+   documentacion
+   integracion_continua
+   despliegue
 
-
-Indices and tables
-==================
+Índices y tablas
+================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
